@@ -110,4 +110,6 @@ Xem chi tiết trong `DEPLOYMENT.md`
 
 ## 📞 Liên hệ
 
+Nguyễn Công Tuyền
+SDT: 0946023682
 Dự án được phát triển để demo kỹ năng lập trình và AI/ML cho HR! 🚀
